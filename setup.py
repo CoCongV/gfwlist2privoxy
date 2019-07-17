@@ -8,9 +8,9 @@ setup(
     version="1.0.0",
     license='MIT',
     description="convert gfwlist to privoxy action file",
-    author='snachx & CoCong',
+    author='CoCong',
     author_email='cong.lv.yx@gmail.com',
-    url='https://github.com/snachx/gfwlist2privoxy',
+    url='https://github.com/CoCongV/gfwlist2privoxy',
     packages=['gfwlist2privoxy', 'gfwlist2privoxy.resources'],
     package_data={
         'gfwlist2privoxy': ['README.rst', 'LICENSE', 'resources/*']
