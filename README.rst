@@ -1,4 +1,4 @@
-GFWList2Privoxy
+PY3-GFWList2Privoxy
 ==============================================================
 
 |Build Status|

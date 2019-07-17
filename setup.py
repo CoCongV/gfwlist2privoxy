@@ -8,8 +8,8 @@ setup(
     version="1.0.3",
     license='MIT',
     description="convert gfwlist to privoxy action file",
-    author='snachx',
-    author_email='snachx@gmail.com',
+    author='snachx & CoCong',
+    author_email='cong.lv.yx@gmail.com',
     url='https://github.com/snachx/gfwlist2privoxy',
     packages=['gfwlist2privoxy', 'gfwlist2privoxy.resources'],
     package_data={
@@ -22,9 +22,7 @@ setup(
     """,
     classifiers=[
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.7',
     ],
     long_description=long_description,
 )
