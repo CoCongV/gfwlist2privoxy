@@ -4,7 +4,7 @@ with open('README.rst') as f:
     long_description = f.read()
 
 setup(
-    name="gfwlist2privoxy",
+    name="py3-gfwlist2privoxy",
     version="1.0.3",
     license='MIT',
     description="convert gfwlist to privoxy action file",
