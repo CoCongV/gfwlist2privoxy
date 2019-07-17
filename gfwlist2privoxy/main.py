@@ -189,7 +189,7 @@ def main():
         print('Downloading gfwlist from %s' % gfwlist_url)
         content = urlopen(gfwlist_url, timeout=10).read()
     if args.user_rule:
-        with open(args.user_rule, 'rb') as f:
+        with open(args.user_rule, 'r') as f:
             user_rule = f.read()
 
     content = decode_gfwlist(content)
