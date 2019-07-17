@@ -34,7 +34,7 @@ Example Action File
 ----------------------------------------------------------
 An example of generated action file is here_.
 
-.. |Build Status| image:: https://travis-ci.org/snachx/gfwlist2privoxy.png?branch=master
-   :target: https://travis-ci.org/snachx/gfwlist2privoxy
+.. |Build Status| image:: https://travis-ci.org/CoCongV/gfwlist2privoxy.svg?branch=master
+    :target: https://travis-ci.org/CoCongV/gfwlist2privoxy
 .. _gfwlist2pac: https://github.com/clowwindy/gfwlist2pac
 .. _here: https://github.com/snachx/gfwlist2privoxy/blob/master/test/gfwlist.action
